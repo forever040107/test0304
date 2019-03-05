@@ -1,0 +1,19 @@
+.App {
+  padding: 10px;
+}
+
+.box {
+  margin-bottom: 25px;
+  width: 200px;
+  height: 200px;
+  border: 1px solid #999;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

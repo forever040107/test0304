@@ -1,0 +1,12 @@
+input[type="range"] {
+    margin-left: 10px;
+    height: 10px;
+    vertical-align: inherit;
+}
+input[type="number"] {
+    width: 50px;
+}
+
+.Bar {
+    margin: 10px 0;
+}
